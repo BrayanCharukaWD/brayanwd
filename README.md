@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brayanwd
+- 👋 Hi, I’m @BrayanCharukaWD
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Android App Development
 - 💞️ I’m looking to collaborate on ...
